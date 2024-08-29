@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alumno/Y2KCore/Y2KCore/Content/06_Materiales/Material_Matrix/M_Matrix.uasset",
+				"C:/Users/Alumno/Y2KCore/Y2KCore/Content/07_Levels/L_Test_Matrix.umap",
+				"C:/Users/Alumno/Y2KCore/Y2KCore/Content/06_Materiales/Material_Matrix/map1.uasset",
+				"C:/Users/Alumno/Y2KCore/Y2KCore/Content/06_Materiales/Material_Matrix/map2.uasset",
+				"C:/Users/Alumno/Y2KCore/Y2KCore/Content/06_Materiales/Material_Matrix/map3.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Y2KCore/Y2KCore/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Y2KCore/Y2KCore/Content/01_Blueprints/BP_Transicion.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Y2KCore/Y2KCore/Content/01_Blueprints/BP_ThirdPersonCharacter.uasset",
