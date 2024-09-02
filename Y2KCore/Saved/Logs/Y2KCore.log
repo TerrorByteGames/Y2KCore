@@ -3621,3 +3621,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.02-01.21.21:319][688]AssetCheck: New page: Asset Save: multiple assets
 [2024.09.02-01.21.21:320][688]LogContentValidation: Display: Validating /Game/01_Blueprints/BPVideo/BP_Piso01.BP_Piso01_C /Game/01_Blueprints/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Piso_C_UAID_2CF05D7F291F321802_1653924646
 [2024.09.02-01.21.21:320][688]LogContentValidation: Display: Validating /Game/01_Blueprints/BPVideo/BP_Video01.BP_Video01_C /Game/01_Blueprints/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Video01_C_UAID_2CF05D7F291F311802_1582078469
+[2024.09.02-01.22.00:224][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.09.02-01.22.00:246][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/01_Blueprints/Maps/ThirdPersonMap' took 0.050
